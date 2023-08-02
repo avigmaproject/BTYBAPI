@@ -1,0 +1,9 @@
+2023-05-04 16:58:06,822 [3]  INFO DebugLog.logDebugMessage [19] - Log Message from Debug Method
+2023-05-04 17:10:15,820 [5]  INFO DebugLog.logDebugMessage [19] - Android--------->http://adminlab.ikaart.org/provider/email-verification
+2023-05-04 17:12:19,124 [3]  INFO DebugLog.logDebugMessage [19] - Android--------->http://adminlab.ikaart.org/provider/email-verification
+2023-05-04 19:03:15,360 [8]  INFO DebugLog.logDebugMessage [0] - Android--------->http://adminlab.ikaart.org/provider/email-verification
+2023-05-05 13:15:14,604 [5]  INFO DebugLog.logDebugMessage [19] - Android--------->http://adminlab.ikaart.org/provider/email-verification
+2023-05-05 13:20:46,818 [8]  INFO DebugLog.logDebugMessage [19] - Android--------->http://adminlab.ikaart.org/provider/email-verification
+2023-05-05 13:24:26,370 [16]  INFO DebugLog.logDebugMessage [0] - Android--------->http://adminlab.ikaart.org/provider/email-verification
+2023-05-15 12:27:15,224 [8]  INFO DebugLog.logDebugMessage [19] - Android--------->string
+2023-05-15 13:11:24,653 [56]  INFO DebugLog.logDebugMessage [19] - Android--------->string
